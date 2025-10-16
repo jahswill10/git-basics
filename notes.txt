@@ -2,3 +2,4 @@ added new to features to the app
 
 this is another line in this notes
 
+there is a third line now!
